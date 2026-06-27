@@ -1,0 +1,5 @@
+﻿plan,precio_mensual_usd,precio_anual_usd,usuarios_incluidos,proyectos,almacenamiento_gb,soporte,funciones_principales
+Free,0,0,1,3,5,Comunidad,"Tableros kanban, tareas básicas, app móvil"
+Starter,12,99,5,10,20,Email,"Todo Free + reportes básicos, integraciones básicas, exportar PDF"
+Business,39,349,25,ilimitados,100,Email y chat,"Todo Starter + automatizaciones, API access, roles y permisos"
+Enterprise,99,899,ilimitados,ilimitados,500,24/7 dedicado,"Todo Business + SSO, SLA garantizado, onboarding personalizado, dashboard ejecutivo"
